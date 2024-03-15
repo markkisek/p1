@@ -1,0 +1,129 @@
+header{background-image: url('https://www.tarantino-family.com/wp-content/uploads/HV_3.jpg');
+background-repeat: no-repeat;background-size: cover;
+height: 300px;}
+
+.dostavka{display: flex;
+    align-items: center;
+    width: 1020px;
+    margin: 0 auto;
+    justify-content: space-around;
+    background-image: url(https://i.postimg.cc/tgVJPVr6/5.jpg);
+}
+
+body{background-color: gainsboro;}
+
+.dostavka a{color:white;
+font-size: 20px;
+margin-left: 20px;
+text-decoration: none;}
+
+.dostavka a:hover{color:yellow;
+text-decoration: none; }
+
+
+
+.vhid{display: flex;
+    align-items: center;
+    width: 1020px;
+    margin: 0 auto;
+    height: 70px;
+    justify-content: space-around;
+background-color: white;}
+
+.img2{width: 50px;
+height: 50px;}
+.sposob{border-radius: 30px;
+padding: 5px;
+background-color: white;}
+
+
+.zagolovok_contanier{margin: 0 auto;
+width: 400px;
+}
+
+
+.osnova{ width: 1200px;
+    margin: 0 auto;
+  
+}
+
+.block{background-color: white;
+width: 250px;
+
+bottom: 200px;}
+
+
+.block a{display: block;
+text-decoration: none;
+color: gray;
+border-bottom: 1px solid gray;
+padding: 10px;
+text-align: center;
+}
+
+
+.reklama{background-image: url(https://www.tarantino-family.com/wp-content/uploads/XV_1314x300.png);
+width: 900px;
+height: 150px;
+float: right;
+
+}
+
+
+.menu1{display: flex;
+justify-content: space-around;
+
+width: 600px;
+margin: 0 auto;
+position: absolute;
+top:800px;
+left: 800px;
+
+}
+
+.menu2{display: flex;
+    justify-content: space-around;
+    
+    width: 600px;
+    margin: 0 auto;
+    position: absolute;
+top:1200px;
+left: 800px;
+    
+    }
+    
+
+
+article{text-align: center;
+   width: 250px;
+   margin: 20px;
+height: 350px;
+background-color: white;}
+
+img{width: 250px;
+height: 250px;}
+
+span{color: greenyellow;
+font-weight: 900;}
+
+p{color: gray;
+font-weight: 300;
+font-size: 24px;}
+
+footer{background-color: rgb(53, 48, 48);
+    justify-content: space-around;
+display: flex;
+position: relative;
+top:500px;
+height: 300px;}
+
+
+.stolb1{display: flex;
+flex-direction: column;
+color: white;
+}
+article:hover{box-shadow: 5px 5px 20px 5px grey;}
+.block a:hover{color:yellow}
+li:hover{color:yellow}
+p:hover{color:rgb(18, 124, 32);
+font-weight: 900;}
